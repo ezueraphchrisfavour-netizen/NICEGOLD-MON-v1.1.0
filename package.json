@@ -1,0 +1,17 @@
+{
+  "name": "nicegold-mon-bot",
+  "version": "1.1.0",
+  "description": "𓉳 ⃝𝗡𝗜𝗖𝗘𝗚𝗢𝗟𝗗 ⃝ 𝗠𝗢𝗡𓉳『ɴɢᴍ』 modular WhatsApp utility bot with Telegram pairing",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "dotenv": "^16.4.5"
+  }
+}
